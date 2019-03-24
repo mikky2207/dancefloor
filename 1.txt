@@ -1,3 +1,4 @@
 organazer
 scruteneer
 judges
+director
